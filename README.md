@@ -111,16 +111,6 @@ backend/
 ├── pipeline.py          # Pipeline logic (agents + LLM calls)
 ├── run.py               # Shortcut to start server
 ├── requirements.txt     # Python dependencies
-└── frontend/
-    └── index.html       # Single-file UI (vanilla JS + Chart.js)
+     
 ```
-
----
-
-## Notes
-
-- Gemini key is entered in the UI at runtime
-- Ollama runs 100% locally, zero internet required for LLM
-- Whisper transcription runs locally, no OpenAI account needed
-- Total cost to run: ₹0/month
 
