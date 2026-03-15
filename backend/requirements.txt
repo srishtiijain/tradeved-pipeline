@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+yt-dlp
+pytrends
+openai-whisper
+google-genai
+requests
+pandas
+python-multipart
+aiofiles
